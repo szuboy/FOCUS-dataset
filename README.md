@@ -28,9 +28,8 @@ To access the dataset, please visit the following Zenodo repo:
 |      Oriented R-CNN      |    60.00 ± 3.10     |    109.96 ± 10.06     |     69.42 ± 5.25     |    140.57 ± 27.50     |     61.94 ± 11.83     |          [[Paper]](https://arxiv.org/abs/2108.05699) [[Code]](https://github.com/open-mmlab/mmdetection)          |
 |   Rotated Faster R-CNN   |    86.60 ± 0.72     |     27.97 ± 1.28      |     91.00 ± 0.94     |     39.82 ± 4.60      |     88.30 ± 1.63      | [[Paper]](https://dl.acm.org/doi/abs/10.1145/3402597.3402605) [[Code]](https://github.com/open-mmlab/mmdetection) |
 
-!Note: Oriented R-CNN and Rotated Faster RCNN experiments are based on the implementation of the MMRotate framework.
+[!Note]: Oriented R-CNN and Rotated Faster RCNN experiments are based on the implementation of the MMRotate framework.
 MMRotate depends on [PyTorch](https://pytorch.org/), [MMCV](https://github.com/open-mmlab/mmcv) and [MMDetection](https://github.com/open-mmlab/mmdetection).
-Below are quick steps for installation.
 Please refer to [Install Guide](https://mmrotate.readthedocs.io/en/latest/install.html) for more detailed instruction.
 
 
