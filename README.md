@@ -21,7 +21,7 @@ To access the dataset, please visit the following Zenodo repo:
 ## Technical Validation
 
 
-|         Methods          | Cardiac: DSC (%) ↑  |  Cardiac: HD95 (%) ↓  | Thoracic: DSC (%) ↑  | Thoracic: HD95 (%) ↓  | Biometric: CTR (%) ↑  |              Paper & Code                                                                                         |
+|         Methods          | Cardiac: DSC (%) ↑  | Cardiac: HD95 (pixel) ↓  | Thoracic: DSC (%) ↑  | Thoracic: HD95 (pixel) ↓  | Biometric: CTR (%) ↑ |              Paper & Code                                                                                         |
 |:------------------------:|:-------------------:|:---------------------:|:--------------------:|:---------------------:|:---------------------:|:-----------------------------------------------------------------------------------------------------------------:|
 |          U-Net           |    89.12 ± 1.62     |     25.63 ± 4.24      |     93.96 ± 0.67     |     32.74 ± 4.68      |     90.23 ± 1.37      |          [[Paper]](https://arxiv.org/abs/1505.04597) [[Code]](https://github.com/milesial/Pytorch-UNet)           |   
 |        TransUNet         |    92.48 ± 0.36     |     16.76 ± 0.72      |     96.48 ± 0.18     |     16.26 ± 0.96      |     93.32 ± 1.38      |           [[Paper]](https://arxiv.org/abs/2102.04306) [[Code]](https://github.com/Beckschen/TransUNet)            |
